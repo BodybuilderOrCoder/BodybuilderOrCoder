@@ -20,13 +20,21 @@ I'm always eager to learn new things, take on challenges, and continuously impro
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, JavaScript, TypeScript, Java
 
-**Web Development:** Next.js, React, FastAPI
+## 🛠️ Tech Stack
 
-**Databases:** PostgreSQL, MySQL, Redis
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
 
-**Tools:** Git, GitHub, Docker, VS Code
+### Frontend & Backend
+[![Web](https://skillicons.dev/icons?i=react,nextjs,fastapi)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+### Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm)](https://skillicons.dev)
+
 
 ## 📌 Featured Projects
 
