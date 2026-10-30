@@ -34,25 +34,51 @@ I'm always eager to learn new things, take on challenges, and continuously impro
 
 
 
+
 ## 📌 Featured Projects
 
-### 🛒 FreshLoop — Smart Grocery Platform
 
-A smart grocery e-commerce platform featuring real-time
-inventory management and predictive product recommendations.
+### [FreshLoop — Smart Grocery Platform](https://github.com/BodybuilderOrCoder/FreshLoop)
 
-**Tech Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Docker
+A full-stack smart grocery e-commerce platform designed to integrate real-time inventory management, predictive product recommendations, and scalable backend services.
 
-[![FreshLoop](https://github-readme-stats.vercel.app/api/pin/?username=BodybuilderOrCoder&repo=FreshLoop&theme=github_dark)](https://github.com/BodybuilderOrCoder/FreshLoop)
+**Tech Stack:**
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, SQLAlchemy
+- **Database:** PostgreSQL, Redis
+- **DevOps:** Docker, GitHub, Vercel, Railway
 
-### 👟 HAVIE — Sports E-commerce
+**My Role:** Team Leader & Full-Stack Developer (4-member team)
 
-A collaborative sports fashion e-commerce project
-built with React and Vite.
+**Key Responsibilities:**
+- Leading project planning, task allocation, and team collaboration
+- Developing frontend and backend functionalities
+- Designing and integrating RESTful APIs
+- Working with PostgreSQL and Redis
+- Reviewing pull requests and managing Git workflows
 
-**Tech Stack:** React, JavaScript, CSS, Vite
 
-[![HAVIE](https://github-readme-stats.vercel.app/api/pin/?username=Vietomato&repo=HAVIE&theme=github_dark)](https://github.com/Vietomato/HAVIE)
+
+### [HAVIE — Full-Stack Sports E-commerce](https://github.com/Vietomato/HAVIE)
+
+A full-stack sports fashion e-commerce application developed collaboratively by a two-member team, focusing on scalable architecture, secure authentication, and modern web technologies.
+
+**Tech Stack:**
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, Prisma ORM
+- **Authentication:** JWT, Argon2, RBAC
+- **DevOps:** Docker, Nginx
+
+**My Role:** Full-Stack Developer (2-member team)
+
+**Key Responsibilities:**
+- Developing frontend and backend functionalities
+- Designing and integrating RESTful APIs
+- Implementing database operations and application logic
+- Collaborating on system architecture and development
+
+
 
 
 ## 📚 Currently Learning
