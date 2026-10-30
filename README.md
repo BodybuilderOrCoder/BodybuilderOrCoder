@@ -33,29 +33,27 @@ I'm always eager to learn new things, take on challenges, and continuously impro
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm)](https://skillicons.dev)
 
 
+
 ## 📌 Featured Projects
 
-### 🛒 FreshLoop - Smart Grocery Platform
+### 🛒 FreshLoop — Smart Grocery Platform
 
-A grocery e-commerce project featuring inventory management,
-real-time updates, and personalized product recommendations.
+A smart grocery e-commerce platform featuring real-time
+inventory management and predictive product recommendations.
 
-- Next.js, TypeScript, FastAPI
-- PostgreSQL, Redis, Docker
-- Predictive Quick Reorder functionality
+**Tech Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Docker
 
-[View Project](https://github.com/BodybuilderOrCoder/FreshLoop)
+[![FreshLoop](https://github-readme-stats.vercel.app/api/pin/?username=BodybuilderOrCoder&repo=FreshLoop&theme=github_dark)](https://github.com/BodybuilderOrCoder/FreshLoop)
 
-### 👟 HAVIE - Sports E-commerce
+### 👟 HAVIE — Sports E-commerce
 
 A collaborative sports fashion e-commerce project
 built with React and Vite.
 
-- Responsive storefront
-- Product browsing and shopping cart
-- Frontend collaboration using Git and GitHub
+**Tech Stack:** React, JavaScript, CSS, Vite
 
-[View Project](https://github.com/Vietomato/HAVIE)
+[![HAVIE](https://github-readme-stats.vercel.app/api/pin/?username=Vietomato&repo=HAVIE&theme=github_dark)](https://github.com/Vietomato/HAVIE)
+
 
 ## 📚 Currently Learning
 
