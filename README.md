@@ -20,9 +20,6 @@ I'm always eager to learn new things, take on challenges, and continuously impro
 
 ## 🛠️ Tech Stack
 
-
-## 🛠️ Tech Stack
-
 ### Programming Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
 
