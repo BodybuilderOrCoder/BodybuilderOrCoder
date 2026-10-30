@@ -1,16 +1,70 @@
-## Hi there 👋
 
-<!--
-**BodybuilderOrCoder/BodybuilderOrCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hieu Nguyen 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Engineer | Full-Stack Developer | Information Systems Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a third-year undergraduate student majoring in Information Systems at the University of Information Technology (VNU-HCM).
+
+I'm passionate about **Data Engineering** and **Full-Stack Development**, with a strong interest in building data-driven applications, exploring modern technologies, and solving real-world problems through software.
+
+I'm always eager to learn new things, take on challenges, and continuously improve my technical and problem-solving skills through hands-on projects and collaboration.
+
+## 🚀 About Me
+
+- 🎓 Third-year Information Systems undergraduate at UIT - VNUHCM
+- 💻 Interested in Full-Stack Development and Data Engineering
+- 🔭 Currently working on **FreshLoop**, a smart grocery e-commerce platform
+- 🌱 Exploring data pipelines, ETL processes, backend systems, and cloud technologies
+- 🤝 Open to collaboration, new technologies, and learning opportunities
+- 🎯 Working toward becoming a skilled Data Engineer with a strong software engineering foundation
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript, TypeScript, Java
+
+**Web Development:** Next.js, React, FastAPI
+
+**Databases:** PostgreSQL, MySQL, Redis
+
+**Tools:** Git, GitHub, Docker, VS Code
+
+## 📌 Featured Projects
+
+### 🛒 FreshLoop - Smart Grocery Platform
+
+A grocery e-commerce project featuring inventory management,
+real-time updates, and personalized product recommendations.
+
+- Next.js, TypeScript, FastAPI
+- PostgreSQL, Redis, Docker
+- Predictive Quick Reorder functionality
+
+[View Project](https://github.com/BodybuilderOrCoder/FreshLoop)
+
+### 👟 HAVIE - Sports E-commerce
+
+A collaborative sports fashion e-commerce project
+built with React and Vite.
+
+- Responsive storefront
+- Product browsing and shopping cart
+- Frontend collaboration using Git and GitHub
+
+[View Project](https://github.com/Vietomato/HAVIE)
+
+## 📚 Currently Learning
+
+- Data Pipelines and ETL
+- Data Warehousing
+- Apache Spark and Airflow
+- Cloud Fundamentals
+- Data Structures and Algorithms
+
+## 📫 Connect With Me
+
+- GitHub: [BodybuilderOrCoder](https://github.com/BodybuilderOrCoder)
+
+---
+
+*Always learning. Always building.*
+
